@@ -50,7 +50,7 @@ color: #EDD711;
 transform: rotate(-0.16deg);
 }
 
-#logo{
+#logo1{
     position: absolute;
     width: 250px;
     height: 311px;
@@ -72,4 +72,17 @@ transform: rotate(-0.16deg);
     right: 1px;
     top: 1px;
     border: 1px solid #FFFFFF;
+}
+
+#ananass {
+    position: absolute;
+    width: 10%;
+    height: 12%;
+}
+
+#logo2 {
+    position: relative;
+    left: 48px;
+    top: 2px;
+
 }
