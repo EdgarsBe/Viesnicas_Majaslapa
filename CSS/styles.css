@@ -1,5 +1,5 @@
 body{
-    background: #E1E1E4;
+    background: #E9E9E9;
 }
 
 #virsraksts{
@@ -72,4 +72,25 @@ transform: rotate(-0.16deg);
     right: 1px;
     top: 1px;
     border: 1px solid #FFFFFF;
+}
+
+#img1 {
+    position: absolute;
+    width: 1470px;
+    height: 873px;
+    left: 0px;
+    top: 0px;
+
+    box-sizing: border-box;
+    box-shadow: inset 0px 4px 4px
+}
+
+#img2 {
+    position: absolute;
+width: 1620px;
+height: 930px;
+left: 300px;
+top: -5px;
+
+box-sizing: border-box;
 }
