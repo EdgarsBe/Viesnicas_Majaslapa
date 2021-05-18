@@ -1,0 +1,59 @@
+body{
+    background: #E1E1E4;
+}
+
+#virsraksts{
+position: absolute;
+width: 1265px;
+height: 330px;
+left: 550px;
+top: 100px;
+
+font-family: ZCOOL QingKe HuangYou;
+font-style: normal;
+font-weight: normal;
+font-size: 250px;
+line-height: 350px;
+
+color: #EDD711;
+
+-webkit-text-stroke-width: 5px;
+-webkit-text-stroke-color: black;
+text-shadow: -13px 15px 6px rgba(0, 0, 0, 0.35);
+}
+
+#button1{
+    position: absolute;
+width: 437px;
+height: 86px;
+left: 760px;
+top: 700px;
+
+background: #B5984F;
+border: 3px solid #000000;
+box-sizing: border-box;
+box-shadow: -8px 8px 7px 8px rgba(0, 0, 0, 0.35);
+border-radius: 23px;
+
+font-family: ZCOOL QingKe HuangYou;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 64px;
+/* identical to box height */
+
+
+color: #EDD711;
+
+-webkit-text-stroke-width: 3px;
+-webkit-text-stroke-color: black;
+transform: rotate(-0.16deg);
+}
+
+#logo{
+    position: absolute;
+    width: 250px;
+    height: 311px;
+    left: 860px;
+    top: 0px;
+}
