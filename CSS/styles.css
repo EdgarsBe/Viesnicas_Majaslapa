@@ -144,6 +144,27 @@ body{
     box-shadow: -8px 11px 4px rgba(0, 0, 0, 0.35), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 23px;
 }
+
+#button4{
+    position: absolute;
+    width: 319px;
+    height: 90px;
+    left: 1592px;
+    top: 14px;
+    font-family: ZCOOL QingKe HuangYou;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 64px;
+    color: #EDD711;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    border: 3px solid #000000;
+    background: #B5984F;
+    box-shadow: -8px 11px 4px rgba(0, 0, 0, 0.35), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 23px;
+}
+
 #Pop_up1{
     display: none;
 }
